@@ -1,0 +1,10 @@
+[project]
+name = "hass-desktop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gmqtt>=0.7.0",
+    "psutil>=7.0.0",
+]
